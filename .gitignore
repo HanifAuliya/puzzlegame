@@ -1,0 +1,9 @@
+# Folder yang diabaikan
+build/
+dist/
+__pycache__/
+
+# File yang diabaikan
+*.pyc
+*.pyo
+*.spec
